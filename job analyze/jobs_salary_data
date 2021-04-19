@@ -1,0 +1,405 @@
+,Job,Salary,Job_category
+0,Administrative Worker,498 - 924,Administration
+1,"Archivist, Registry Administrator",449 - 922,Administration
+2,Assistant,"583 - 1,329",Administration
+3,Chief Receptionist Officer,533 - 990,Administration
+4,Office Manager,"599 - 1,389",Administration
+5,Project Assistant,"573 - 1,111",Administration
+6,Receptionist,504 - 905,Administration
+7,Receptionist I,476 - 904,Administration
+8,Secretary,"534 - 1,026",Administration
+9,"Agricultural Engineer, Agronomist","505 - 1,027","Agriculture, Food Industry"
+10,Agricultural Equipment Operator,449 - 935,"Agriculture, Food Industry"
+11,Agricultural Specialist,449 - 811,"Agriculture, Food Industry"
+12,Agricultural Technician,500 - 846,"Agriculture, Food Industry"
+13,Baker,449 - 971,"Agriculture, Food Industry"
+14,Butcher,"512 - 1,053","Agriculture, Food Industry"
+15,Food Engineer,"637 - 1,019","Agriculture, Food Industry"
+16,Food Technologist,"502 - 1,079","Agriculture, Food Industry"
+17,Livestock Specialist,"464 - 1,141","Agriculture, Food Industry"
+18,"Pastry Chef, Confectioner",479 - 926,"Agriculture, Food Industry"
+19,Actor,"449 - 1,128",Arts & Culture
+20,Archaeologist,"449 - 1,041",Arts & Culture
+21,Curator,"552 - 1,088",Arts & Culture
+22,Dancer,"449 - 1,037",Arts & Culture
+23,Designer,"587 - 1,156",Arts & Culture
+24,"Make-Up Artist, Wigmaker",449 - 908,Arts & Culture
+25,Photographer,"449 - 1,039",Arts & Culture
+26,Restorer/Conservator,"492 - 1,054",Arts & Culture
+27,Sound Engineer,"544 - 1,125",Arts & Culture
+28,Wardrobe Assistant,,Arts & Culture
+29,Back Office Specialist,"573 - 1,072",Banking
+30,Client officer,"559 - 1,455",Banking
+31,Internal Auditor,"765 - 2,188",Banking
+32,Loan Specialist,"679 - 1,360",Banking
+33,Mortgage Specialist,"601 - 1,471",Banking
+34,Payments Clerk,563 - 927,Banking
+35,Private Banker,"656 - 1,184",Banking
+36,Risk Specialist,"838 - 1,598",Banking
+37,"Seller of Bank Services, Loan Officer","637 - 1,036",Banking
+38,Auto Electrician,547 - 952,Car Industry
+39,Car Mechanic,"492 - 1,022",Car Industry
+40,Vehicle Body Repairer,"449 - 1,146",Car Industry
+41,Chemical Engineer,"581 - 1,036",Chemical Industry
+42,Chemical Lab Technician,500 - 988,Chemical Industry
+43,Chemist,"608 - 1,116",Chemical Industry
+44,Account Manager,"587 - 1,630",Commerce
+45,Betting Clerk,558 - 937,Commerce
+46,Business Analyst,"691 - 1,792",Commerce
+47,Buying Agent,"571 - 1,126",Commerce
+48,Cashier,471 - 795,Commerce
+49,Junior Sales Representative,"500 - 1,239",Commerce
+50,Key Account Manager,"771 - 1,872",Commerce
+51,Online shop administrator,"449 - 1,202",Commerce
+52,Product Marketing Manager,"680 - 2,143",Commerce
+53,Promotional Assistant,523 - 896,Commerce
+54,Retail Store Manager,"588 - 1,116",Commerce
+55,Sales Consultant,466 - 850,Commerce
+56,Sales Engineer,"731 - 1,622",Commerce
+57,Sales Officer,"575 - 1,003",Commerce
+58,Sales Representative,"570 - 1,181",Commerce
+59,Senior Sales Representative,"606 - 1,674",Commerce
+60,Shelf Stacker/Merchandiser,"567 - 1,120",Commerce
+61,Shop Assistant,459 - 792,Commerce
+62,Telemarketer,482 - 944,Commerce
+63,Window dressers,456 - 941,Commerce
+64,Architect,"645 - 1,203",Construction & Real Estate
+65,Bricklayer,"523 - 1,244",Construction & Real Estate
+66,Building Technician,"620 - 1,116",Construction & Real Estate
+67,Civil Engineer,"672 - 1,241",Construction & Real Estate
+68,Crane Operator,"580 - 1,589",Construction & Real Estate
+69,Design Technician,"679 - 1,477",Construction & Real Estate
+70,Drywaller,"555 - 1,225",Construction & Real Estate
+71,Estate Agent,"449 - 1,160",Construction & Real Estate
+72,Geologist,"627 - 1,413",Construction & Real Estate
+73,Geotechnical investigator,"563 - 1,029",Construction & Real Estate
+74,Interior Designer,"599 - 1,125",Construction & Real Estate
+75,Land Surveyor/Geodesist,"696 - 1,201",Construction & Real Estate
+76,Painter,"458 - 1,172",Construction & Real Estate
+77,Project Manager,"763 - 1,877",Construction & Real Estate
+78,Real Estate Appraiser,"672 - 1,304",Construction & Real Estate
+79,Roofer,"450 - 1,391",Construction & Real Estate
+80,Site Manager,"734 - 1,515",Construction & Real Estate
+81,Welder,"614 - 1,541",Construction & Real Estate
+82,Call Center Supervisor,"545 - 1,760",Customer Support
+83,Call Operator,479 - 881,Customer Support
+84,Customer Support Specialist,578 - 971,Customer Support
+85,Helpdesk Operator,"552 - 1,019",Customer Support
+86,Accountant,"615 - 1,130","Economy, Finance, Accountancy"
+87,Auditor,"664 - 1,498","Economy, Finance, Accountancy"
+88,Billing Clerk,"554 - 1,093","Economy, Finance, Accountancy"
+89,Bookkeeper,"578 - 1,087","Economy, Finance, Accountancy"
+90,Chief Accountant,"696 - 1,522","Economy, Finance, Accountancy"
+91,Claims Specialist,"543 - 1,119","Economy, Finance, Accountancy"
+92,Consultant,"653 - 2,150","Economy, Finance, Accountancy"
+93,Controller,"775 - 1,715","Economy, Finance, Accountancy"
+94,Cost Accountant,"640 - 1,293","Economy, Finance, Accountancy"
+95,Data analyst,"678 - 1,492","Economy, Finance, Accountancy"
+96,Economist,"590 - 1,363","Economy, Finance, Accountancy"
+97,Financial Advisor,"804 - 1,507","Economy, Finance, Accountancy"
+98,Financial Agent,"642 - 1,887","Economy, Finance, Accountancy"
+99,Financial Analyst,"696 - 1,340","Economy, Finance, Accountancy"
+100,Junior Accountant,"577 - 1,069","Economy, Finance, Accountancy"
+101,Junior Statistician,"543 - 1,268","Economy, Finance, Accountancy"
+102,Payroll Clerk,"603 - 1,163","Economy, Finance, Accountancy"
+103,Senior Accountant,"675 - 1,381","Economy, Finance, Accountancy"
+104,Senior Statistician,"729 - 1,853","Economy, Finance, Accountancy"
+105,Statistician,"501 - 1,551","Economy, Finance, Accountancy"
+106,Tax Advisor,"684 - 1,362","Economy, Finance, Accountancy"
+107,Biologist,"591 - 1,218","Education, Science & Research"
+108,Driving Instructor,483 - 916,"Education, Science & Research"
+109,Education coordinator,"571 - 1,053","Education, Science & Research"
+110,Educator/Instructor/Carer,685 - 957,"Education, Science & Research"
+111,Fitness Instructor,"505 - 1,001","Education, Science & Research"
+112,Lector,"630 - 1,050","Education, Science & Research"
+113,Librarian,612 - 996,"Education, Science & Research"
+114,Music and Art School Teacher,519 - 954,"Education, Science & Research"
+115,Preschool Teacher,620 - 916,"Education, Science & Research"
+116,Primary School Teacher,"695 - 1,013","Education, Science & Research"
+117,Psychologist,"666 - 1,156","Education, Science & Research"
+118,"Research Worker, Scientific Worker","672 - 1,520","Education, Science & Research"
+119,School Caretaker,449 - 784,"Education, Science & Research"
+120,School Principal,"847 - 1,550","Education, Science & Research"
+121,Secondary School Teacher,"666 - 1,040","Education, Science & Research"
+122,Special Needs Teacher,"702 - 1,117","Education, Science & Research"
+123,Sports Coach,449 - 914,"Education, Science & Research"
+124,University Teacher,"849 - 1,879","Education, Science & Research"
+125,University Teaching assistant,"713 - 1,069","Education, Science & Research"
+126,Design Technician,"663 - 1,341",Electrical & Power Engineering
+127,Electrical Engineer,"548 - 1,164",Electrical & Power Engineering
+128,Electrical Engineering Technician,"563 - 1,087",Electrical & Power Engineering
+129,Electrical Fitter,"554 - 1,114",Electrical & Power Engineering
+130,Electrician,"592 - 1,142",Electrical & Power Engineering
+131,Electrician (industrial),"549 - 1,220",Electrical & Power Engineering
+132,Electronics Electrician,"526 - 1,168",Electrical & Power Engineering
+133,Au-pair,449 - 680,General labour
+134,Cleaner,449 - 680,General labour
+135,General Labourer,449 - 673,General labour
+136,Hostess,496 - 927,General labour
+137,"Porter, Information Staff",449 - 748,General labour
+138,Survey Interviewer,449 - 771,General labour
+139,Education Specialist,"733 - 1,361",Human Resources
+140,HR Business Partner,"823 - 2,082",Human Resources
+141,HR Consultant,"715 - 1,359",Human Resources
+142,HR Officer,"607 - 1,170",Human Resources
+143,.NET Programmer,"912 - 1,694",Information Technology
+144,ABAP Programmer,"688 - 2,538",Information Technology
+145,Android Developer,"820 - 1,790",Information Technology
+146,Business Intelligence Specialist,"943 - 1,750",Information Technology
+147,C Programmer,"761 - 1,732",Information Technology
+148,C# Programmer,"863 - 1,833",Information Technology
+149,C++ Programmer,"785 - 2,105",Information Technology
+150,Database Analyst,"594 - 1,907",Information Technology
+151,DevOps Engineer,"1,082 - 2,429",Information Technology
+152,IT Analyst,"843 - 1,667",Information Technology
+153,IT Architect,"871 - 2,976",Information Technology
+154,IT Consultant,"712 - 2,097",Information Technology
+155,IT Network Administrator,"701 - 1,868",Information Technology
+156,IT Product Manager,"767 - 2,381",Information Technology
+157,IT Project Manager,"817 - 2,248",Information Technology
+158,IT System Administrator,"695 - 1,447",Information Technology
+159,IT Tester,"731 - 1,542",Information Technology
+160,IT auditor,"660 - 1,726",Information Technology
+161,IT tester - automated tests,"671 - 1,614",Information Technology
+162,IT/Technical Support Specialist,"787 - 1,685",Information Technology
+163,Java Programmer,"899 - 1,849",Information Technology
+164,Javascript Programmer,"867 - 2,012",Information Technology
+165,Lead developer,"1,294 - 3,201",Information Technology
+166,Objective-C Programmer,"746 - 2,647",Information Technology
+167,PC Technician,"593 - 1,313",Information Technology
+168,PHP Programmer,"700 - 1,721",Information Technology
+169,Perl Programmer,"711 - 2,295",Information Technology
+170,Programmer,"814 - 1,796",Information Technology
+171,Python Programmer,"858 - 1,661",Information Technology
+172,R programmer,"667 - 1,836",Information Technology
+173,Ruby Developer/Programmer,"817 - 2,118",Information Technology
+174,Scrum Master,"954 - 2,430",Information Technology
+175,Service Technician,"570 - 1,184",Information Technology
+176,User Experience Expert,"738 - 1,734",Information Technology
+177,Web Designer,"665 - 1,456",Information Technology
+178,Webmaster,"462 - 1,239",Information Technology
+179,iOS Developer,"743 - 2,646",Information Technology
+180,Actuary,"803 - 1,801",Insurance
+181,Insurance Broker,"504 - 1,103",Insurance
+182,Loss Adjuster,"632 - 1,040",Insurance
+183,Camera Operator,"528 - 1,172","Journalism, Printing Arts & Media"
+184,Content provider,"549 - 1,339","Journalism, Printing Arts & Media"
+185,DTP Operator,"548 - 1,018","Journalism, Printing Arts & Media"
+186,Editor,"635 - 1,176","Journalism, Printing Arts & Media"
+187,Film Editor,"475 - 1,016","Journalism, Printing Arts & Media"
+188,Graphic,535 - 817,"Journalism, Printing Arts & Media"
+189,Graphic Designer,561 - 993,"Journalism, Printing Arts & Media"
+190,Journalist,534 - 926,"Journalism, Printing Arts & Media"
+191,Junior Graphic Designer,"449 - 1,006","Journalism, Printing Arts & Media"
+192,Photo Editor,449 - 999,"Journalism, Printing Arts & Media"
+193,Printer,527 - 908,"Journalism, Printing Arts & Media"
+194,Printing Technician,"544 - 1,119","Journalism, Printing Arts & Media"
+195,Producer,"502 - 1,835","Journalism, Printing Arts & Media"
+196,Reporter,"595 - 1,370","Journalism, Printing Arts & Media"
+197,Senior Graphic Designer,"536 - 1,349","Journalism, Printing Arts & Media"
+198,Sound Engineer,521 - 955,"Journalism, Printing Arts & Media"
+199,TV Presenter,"504 - 1,215","Journalism, Printing Arts & Media"
+200,Administrative officer,"514 - 1,001",Law & Legislation
+201,Articled Clerk,606 - 981,Law & Legislation
+202,Lawyer,"631 - 1,345",Law & Legislation
+203,Notary,"616 - 1,342",Law & Legislation
+204,"Solicitor, Barrister","708 - 1,535",Law & Legislation
+205,Claims Administrator,"467 - 1,214",Leasing
+206,Leasing Consultant,"736 - 1,613",Leasing
+207,Leasing Director,"1,091 - 4,012",Leasing
+208,Account Director,"675 - 2,540",Management
+209,Art Director,"636 - 2,216",Management
+210,Auto Repair Shop Manager,"519 - 1,812",Management
+211,Brand Manager,"816 - 2,023",Management
+212,Business Development Manager,"713 - 2,896",Management
+213,Business Group Manager,"693 - 2,709",Management
+214,Call Centre Manager,"670 - 2,338",Management
+215,Car Fleet Manager,"478 - 1,773",Management
+216,Contract Manager,"667 - 2,417",Management
+217,Department Manager,"702 - 1,562",Management
+218,Editor-In-Chief,"547 - 1,974",Management
+219,Facility Manager,"705 - 1,983",Management
+220,Finance Manager,"919 - 3,119",Management
+221,HR Manager,"795 - 2,398",Management
+222,Head of Broadcasting,"578 - 2,023",Management
+223,Head of the Legal Department,"926 - 3,261",Management
+224,Hotel manager,"854 - 1,929",Management
+225,IT Manager,"1,057 - 3,471",Management
+226,Junior Project Manager,"548 - 1,719",Management
+227,Logistics Manager,"605 - 2,057",Management
+228,Maintenance Supervisor,"609 - 1,973",Management
+229,Marketing Manager,"727 - 2,390",Management
+230,Postmaster,"449 - 1,119",Management
+231,Product owner,"712 - 2,678",Management
+232,Production Manager,"678 - 2,104",Management
+233,Production Supervisor,"628 - 1,729",Management
+234,Project Manager,"700 - 2,106",Management
+235,Purchasing Manager,"604 - 1,690",Management
+236,Quality Manager,"705 - 2,260",Management
+237,Regional / Area Manager,"828 - 2,750",Management
+238,Restaurant manager,,Management
+239,Returns Department Manager,"508 - 1,872",Management
+240,Risk Manager,"928 - 2,669",Management
+241,Sales Manager,"568 - 1,977",Management
+242,Sales Office Manager,"551 - 1,928",Management
+243,Security Service Manager,"599 - 1,985",Management
+244,Senior Project Manager,"823 - 2,488",Management
+245,Team leader,"737 - 1,965",Management
+246,Technical Manager,"730 - 3,045",Management
+247,Testing manager,"784 - 2,807",Management
+248,Transport manager,"541 - 1,964",Management
+249,Warehouse Manager,"609 - 1,445",Management
+250,Account Executive,"687 - 1,342","Marketing, Advertising, PR"
+251,Account Manager,"599 - 1,787","Marketing, Advertising, PR"
+252,CRM specialist,,"Marketing, Advertising, PR"
+253,Copywriter,"627 - 1,161","Marketing, Advertising, PR"
+254,Digital marketing manager,"744 - 1,872","Marketing, Advertising, PR"
+255,Digital marketing specialist,"624 - 1,360","Marketing, Advertising, PR"
+256,Internal Communication Specialist,"631 - 1,149","Marketing, Advertising, PR"
+257,Marketing Analyst,"652 - 1,541","Marketing, Advertising, PR"
+258,Marketing Officer,"599 - 1,127","Marketing, Advertising, PR"
+259,Marketing Specialist,"673 - 1,431","Marketing, Advertising, PR"
+260,Media Planner,"654 - 1,043","Marketing, Advertising, PR"
+261,PR Manager,"556 - 1,426","Marketing, Advertising, PR"
+262,Product Marketing Manager,"689 - 1,673","Marketing, Advertising, PR"
+263,Social media specialist,"524 - 1,143","Marketing, Advertising, PR"
+264,CNC Machine Setter,"604 - 1,120",Mechanical Engineering
+265,Design Technician,"691 - 1,402",Mechanical Engineering
+266,Machine Fitter,"520 - 1,138",Mechanical Engineering
+267,"Machine Operator, Machinist","580 - 1,133",Mechanical Engineering
+268,Metalworker,"492 - 1,084",Mechanical Engineering
+269,Milling-Machine Operator,511 - 999,Mechanical Engineering
+270,Qualified Mechanical Engineer,"731 - 1,411",Mechanical Engineering
+271,Technician,"514 - 1,194",Mechanical Engineering
+272,Welder,"512 - 1,205",Mechanical Engineering
+273,Ambulance Driver,"449 - 1,113",Medicine & Social Care
+274,"Carer, Personal Assistant",471 - 806,Medicine & Social Care
+275,Caseworker,"591 - 1,113",Medicine & Social Care
+276,Charge Nurse,"663 - 1,158",Medicine & Social Care
+277,Dental Assistant,590 - 959,Medicine & Social Care
+278,Dental Technician,"514 - 1,034",Medicine & Social Care
+279,Dentist,"775 - 1,565",Medicine & Social Care
+280,Dispensing Optician,509 - 895,Medicine & Social Care
+281,Doctor,"764 - 1,891",Medicine & Social Care
+282,Head Nurse,"656 - 1,319",Medicine & Social Care
+283,Hygiene Officer,578 - 912,Medicine & Social Care
+284,Masseur,449 - 903,Medicine & Social Care
+285,Medical/Pharmaceutical Sales Representative,"806 - 2,073",Medicine & Social Care
+286,Nurse,"643 - 1,073",Medicine & Social Care
+287,Nutrition Assistant,"449 - 1,134",Medicine & Social Care
+288,Occupational therapist,536 - 918,Medicine & Social Care
+289,Pharmaceutical Laboratory Technician,"602 - 1,018",Medicine & Social Care
+290,Pharmacist,"978 - 1,519",Medicine & Social Care
+291,Physiotherapist,522 - 943,Medicine & Social Care
+292,Radiographer,"646 - 1,106",Medicine & Social Care
+293,Radiology Assistant,"572 - 1,071",Medicine & Social Care
+294,Veterinarian,"522 - 1,210",Medicine & Social Care
+295,Veterinary Technician,472 - 838,Medicine & Social Care
+296,Metallurgist,"630 - 1,173","Mining, Metallurgy"
+297,Miner,"806 - 1,382","Mining, Metallurgy"
+298,Foreman,"544 - 1,090",Production
+299,Glassmaker,449 - 966,Production
+300,Machine Operator,"574 - 1,034",Production
+301,Maintenance Engineer,"620 - 1,269",Production
+302,Production Planner,"645 - 1,489",Production
+303,Service Technician,"580 - 1,258",Production
+304,Technologist,"645 - 1,168",Production
+305,Advisor,"676 - 1,267","Public Administration, Self-governance"
+306,Customs Officer,"601 - 1,137","Public Administration, Self-governance"
+307,Independent Expert Associate,"621 - 1,083","Public Administration, Self-governance"
+308,Inspector,"743 - 1,102","Public Administration, Self-governance"
+309,Official,501 - 958,"Public Administration, Self-governance"
+310,Quality Engineer,"682 - 1,252",Quality Management
+311,Deminer,,Security & Protection
+312,"Firefighter, Rescuer",574 - 934,Security & Protection
+313,Health and Safety Officer,"575 - 1,229",Security & Protection
+314,Police Inspector,"734 - 1,279",Security & Protection
+315,Police Officer,714 - 988,Security & Protection
+316,Security Guard,449 - 750,Security & Protection
+317,Soldier,"782 - 1,095",Security & Protection
+318,Beautician,454 - 863,Service Industries
+319,Bicycle mechanic,"463 - 1,137",Service Industries
+320,Florist,449 - 765,Service Industries
+321,Funeral service worker,449 - 842,Service Industries
+322,"Goldsmith, Jeweller",449 - 871,Service Industries
+323,Hairdresser,449 - 717,Service Industries
+324,"Pedicurist, Manicurist, Nail Technician",449 - 778,Service Industries
+325,Petrol Station Attendant,449 - 765,Service Industries
+326,Plumber,"476 - 1,001",Service Industries
+327,Service Technician,"531 - 1,135",Service Industries
+328,Head of Technical Department,"958 - 2,250","Technology, Development"
+329,Mobile Network Development Specialist,"618 - 1,537",Telecommunications
+330,Technician,"590 - 1,140",Telecommunications
+331,Telecommunication Specialist,"749 - 1,681",Telecommunications
+332,Clothing-presser/ Ironer,,"Textile, Leather, Apparel Industry"
+333,Clothing/textile technologist,,"Textile, Leather, Apparel Industry"
+334,Cobbler,449 - 680,"Textile, Leather, Apparel Industry"
+335,Fabric Cutter,449 - 963,"Textile, Leather, Apparel Industry"
+336,"Fashion Designer, Pattern Cutter","449 - 1,203","Textile, Leather, Apparel Industry"
+337,Seamstress,449 - 709,"Textile, Leather, Apparel Industry"
+338,Tailor,449 - 707,"Textile, Leather, Apparel Industry"
+339,Textile manipulators,,"Textile, Leather, Apparel Industry"
+340,Branch Director,"1,192 - 2,774",Top Management
+341,Chief Executive Officer,"939 - 3,528",Top Management
+342,Country Manager/Director,"1,182 - 3,094",Top Management
+343,Economic/Financial Manager,"900 - 3,295",Top Management
+344,IT Director,"1,322 - 4,217",Top Management
+345,Laboratory Director,"772 - 2,514",Top Management
+346,Logistics Director,"1,014 - 2,234",Top Management
+347,Managing Director,"969 - 3,104",Top Management
+348,Marketing Director,"781 - 3,147",Top Management
+349,Personnel Manager,"674 - 2,695",Top Management
+350,Production Director,"883 - 3,057",Top Management
+351,Quality Control/ISO Manager,"826 - 1,951",Top Management
+352,Sales Director,"913 - 3,516",Top Management
+353,Technical Director,"950 - 2,722",Top Management
+354,Activity Instructor,500 - 902,"Tourism, Gastronomy, Hotel Business"
+355,Assistant Cook,503 - 948,"Tourism, Gastronomy, Hotel Business"
+356,Booking agent,549 - 933,"Tourism, Gastronomy, Hotel Business"
+357,Catering manager,"574 - 1,753","Tourism, Gastronomy, Hotel Business"
+358,Chambermaid,449 - 705,"Tourism, Gastronomy, Hotel Business"
+359,Chef,"662 - 1,763","Tourism, Gastronomy, Hotel Business"
+360,Cook,"506 - 1,071","Tourism, Gastronomy, Hotel Business"
+361,Croupier,"524 - 1,061","Tourism, Gastronomy, Hotel Business"
+362,Fast food worker,449 - 856,"Tourism, Gastronomy, Hotel Business"
+363,Flight Attendant,"619 - 1,423","Tourism, Gastronomy, Hotel Business"
+364,Kitchen Helper,449 - 759,"Tourism, Gastronomy, Hotel Business"
+365,"Lifeguard, Swimming Instructor",449 - 769,"Tourism, Gastronomy, Hotel Business"
+366,Pizza Cook,"557 - 1,125","Tourism, Gastronomy, Hotel Business"
+367,Receptionist,498 - 817,"Tourism, Gastronomy, Hotel Business"
+368,Travel Guide,"546 - 1,161","Tourism, Gastronomy, Hotel Business"
+369,Waiter,495 - 864,"Tourism, Gastronomy, Hotel Business"
+370,Interpreter,"510 - 1,372","Translating, interpreting"
+371,Proofreader,581 - 805,"Translating, interpreting"
+372,Translator,"539 - 1,117","Translating, interpreting"
+373,Air Traffic Controller,"985 - 5,762","Transport, Haulage, Logistics"
+374,Bus Driver,"492 - 1,170","Transport, Haulage, Logistics"
+375,Car Driver,449 - 969,"Transport, Haulage, Logistics"
+376,Co-ordinator,"727 - 1,409","Transport, Haulage, Logistics"
+377,Courier,515 - 920,"Transport, Haulage, Logistics"
+378,Customs Broker,"519 - 1,026","Transport, Haulage, Logistics"
+379,Dispatcher/Traffic Controller,"638 - 1,294","Transport, Haulage, Logistics"
+380,Driver,"510 - 1,134","Transport, Haulage, Logistics"
+381,Forklift Truck Operator,"488 - 1,009","Transport, Haulage, Logistics"
+382,Forwarder,"511 - 1,132","Transport, Haulage, Logistics"
+383,Import/Export Officer,"561 - 1,090","Transport, Haulage, Logistics"
+384,Logistics Clerk,"579 - 1,188","Transport, Haulage, Logistics"
+385,Logistics Controller,"597 - 1,228","Transport, Haulage, Logistics"
+386,Lorry Driver,"569 - 1,369","Transport, Haulage, Logistics"
+387,Managing Clerk,"593 - 1,129","Transport, Haulage, Logistics"
+388,Pilot,"866 - 4,768","Transport, Haulage, Logistics"
+389,Postal Delivery Worker,537 - 857,"Transport, Haulage, Logistics"
+390,Sailor,"488 - 4,330","Transport, Haulage, Logistics"
+391,Traffic Controller,"603 - 1,048","Transport, Haulage, Logistics"
+392,Traffic Engineer,"570 - 1,248","Transport, Haulage, Logistics"
+393,Train Dispatcher,"557 - 1,259","Transport, Haulage, Logistics"
+394,Tram Driver,"544 - 1,179","Transport, Haulage, Logistics"
+395,Warehouseman,516 - 946,"Transport, Haulage, Logistics"
+396,Ecologist,"593 - 1,221","Water Management, Forestry, Environment"
+397,Forest Technician,"644 - 1,135","Water Management, Forestry, Environment"
+398,Forester,"547 - 1,183","Water Management, Forestry, Environment"
+399,Meteorologist,,"Water Management, Forestry, Environment"
+400,Cabinet Maker,454 - 805,Wood Processing Industry
+401,Joiner,475 - 969,Wood Processing Industry
+402,Timber Engineer,"585 - 1,296",Wood Processing Industry
+403,Woodworking Technician,477 - 874,Wood Processing Industry
